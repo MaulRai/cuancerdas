@@ -1,6 +1,6 @@
 # cuancerdas
 
-CHUANNNNNNNN
+Sebuah aplikasi untuk membantu mendata hasil penjualan
 
 ## Getting Started
 
